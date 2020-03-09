@@ -1,0 +1,22 @@
+C:\Users\User\source\repos\Stoyanov.Helloworld\bin\Debug\netcoreapp3.1\Stoyanov.Helloworld.exe
+C:\Users\User\source\repos\Stoyanov.Helloworld\bin\Debug\netcoreapp3.1\Stoyanov.Helloworld.deps.json
+C:\Users\User\source\repos\Stoyanov.Helloworld\bin\Debug\netcoreapp3.1\Stoyanov.Helloworld.runtimeconfig.json
+C:\Users\User\source\repos\Stoyanov.Helloworld\bin\Debug\netcoreapp3.1\Stoyanov.Helloworld.runtimeconfig.dev.json
+C:\Users\User\source\repos\Stoyanov.Helloworld\bin\Debug\netcoreapp3.1\Stoyanov.Helloworld.dll
+C:\Users\User\source\repos\Stoyanov.Helloworld\bin\Debug\netcoreapp3.1\Stoyanov.Helloworld.pdb
+C:\Users\User\source\repos\Stoyanov.Helloworld\obj\Debug\netcoreapp3.1\Stoyanov.Helloworld.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Stoyanov.Helloworld\obj\Debug\netcoreapp3.1\Stoyanov.Helloworld.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Stoyanov.Helloworld\obj\Debug\netcoreapp3.1\Stoyanov.Helloworld.AssemblyInfo.cs
+C:\Users\User\source\repos\Stoyanov.Helloworld\obj\Debug\netcoreapp3.1\Stoyanov.Helloworld.dll
+C:\Users\User\source\repos\Stoyanov.Helloworld\obj\Debug\netcoreapp3.1\Stoyanov.Helloworld.pdb
+C:\Users\User\source\repos\Stoyanov.HelloWorld(Neo Lesson 1)\bin\Debug\netcoreapp3.1\Stoyanov.Helloworld.exe
+C:\Users\User\source\repos\Stoyanov.HelloWorld(Neo Lesson 1)\bin\Debug\netcoreapp3.1\Stoyanov.Helloworld.deps.json
+C:\Users\User\source\repos\Stoyanov.HelloWorld(Neo Lesson 1)\bin\Debug\netcoreapp3.1\Stoyanov.Helloworld.runtimeconfig.json
+C:\Users\User\source\repos\Stoyanov.HelloWorld(Neo Lesson 1)\bin\Debug\netcoreapp3.1\Stoyanov.Helloworld.runtimeconfig.dev.json
+C:\Users\User\source\repos\Stoyanov.HelloWorld(Neo Lesson 1)\bin\Debug\netcoreapp3.1\Stoyanov.Helloworld.dll
+C:\Users\User\source\repos\Stoyanov.HelloWorld(Neo Lesson 1)\bin\Debug\netcoreapp3.1\Stoyanov.Helloworld.pdb
+C:\Users\User\source\repos\Stoyanov.HelloWorld(Neo Lesson 1)\obj\Debug\netcoreapp3.1\Stoyanov.Helloworld.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Stoyanov.HelloWorld(Neo Lesson 1)\obj\Debug\netcoreapp3.1\Stoyanov.Helloworld.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Stoyanov.HelloWorld(Neo Lesson 1)\obj\Debug\netcoreapp3.1\Stoyanov.Helloworld.AssemblyInfo.cs
+C:\Users\User\source\repos\Stoyanov.HelloWorld(Neo Lesson 1)\obj\Debug\netcoreapp3.1\Stoyanov.Helloworld.dll
+C:\Users\User\source\repos\Stoyanov.HelloWorld(Neo Lesson 1)\obj\Debug\netcoreapp3.1\Stoyanov.Helloworld.pdb
